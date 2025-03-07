@@ -1,0 +1,34 @@
+,t_modern (post 1850 AD),t_Quaternary,t_pre-Quaternary,pl_North Africa,pl_Sub-Saharan Africa,pl_Indonesia,pl_Malaysia,pl_Myanmar,pl_Thailand,pl_Vietnam,pl_Philippines,pl_East Timor,pl_Singapore,pl_Brunei,pl_Cambodia,pl_Laos,pl_Mongolia,pl_Turkmenistan,pl_Tajikistan,pl_Afghanistan,pl_Uzbekistan,pl_Kazakhstan,pl_Kyrgyzstan,pl_Arabia,pl_Turkey,pl_Iran,pl_Georgia,pl_Azerbaijan,pl_Armenia,pl_Russia,pl_Indian subcontinent,pl_China,pl_Japan,pl_Korea,pl_Taiwan,pl_Europe,pl_Central America,pl_Alaska,pl_Continental US,pl_Canada,pl_Greenland,pl_Mexico,pl_Caribbean,pl_Oceania,pl_South America,pl_Arctic Ocean,pl_Atlantic Ocean,pl_Pacific Ocean,pl_Indian Ocean,pl_Southern Ocean,d_biomarker,d_charcoal,d_diatom,d_dinoflagellates,d_insect,d_sedaDNA,d_ostracode,d_plant macrofossil,d_pollen,d_specimen stable isotope,d_testate amoebae,d_vertebrate fauna,d_water chemistry,d_biochemistry,d_chironomid,d_cladocera,d_geochemistry,d_loss-on-ignition,d_macroinvertebrate,d_organic carbon,d_paleomagnetic,d_physical sedimentology,d_phytolith,d_stable isotope,d_x-ray fluorescence/diffraction
+European Pollen Database,1,1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,1,0,0,0,1,1,1,1,1,0,5,1,1,0,1,0,0,0,5,5,5,1,5,0,5,5,5,5,5
+Indo-Pacific Pollen Database,1,1,5,0,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,5,0,1,5,0,0,0,0,5,1,0,0,0,0,5,0,0,5,5,0,5,5,5,0,5,0
+Latin American Pollen Database,5,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+North American Pollen Database,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,5,5,0,0,5,1,0,0,0,0,0,5,1,0,0,0,0,0,0,0,5,1,0,5,5,1,0,5,5
+Pollen Database of Siberia and the Russian Far East,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Canadian Pollen Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Japanese Pollen Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chinese Pollen Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Deep-Time Palynology Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alpine Palynological Database,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+African Pollen Database,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,5,1,0,0,0,0,0,0,0,5,5,0,5,5,5,0,5,5
+FAUNMAP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MioMap,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Alaskan Archaeofaunas,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,1,0,0,0,1,0,0,0,0,0,0,0,5,0,1,0,5,0,0,0,0,0,0,0,0,0,5,0
+PaleoVertebrates of Latin America,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,5,0
+ANTIGUA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Faunal Isotope Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Academy of Natural Sciences at Drexel University,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,0,0,1,0,0,0,0,0,5,0,0,0,1,0,0,0,5,1,0,5,5,0,0,5,5
+Tropical South American Diatom Database,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+St. Croix Watershed Research Station of the Science Museum of Minnesota,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+North American Non-Marine Ostracode Database Project (NANODe),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Neotoma Ostracode Database,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nonmarine Ostracod Distribution in Europe Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+East Asian Nonmarine Ostracod Database,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NDSU Insect Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+North American Plant Macrofossil Database,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,1,1,1,1,0,0,0,0,0,0,0,0,5,0,0,0,5,0,1,5,0,0,5,0,0,0,0,0,5,0,5,0,5,0,5,0
+Neotoma Midden Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Neotoma Testate Amoebae Database,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,5,1,5,0,0,0,0,0,5,0,1,0,1,0,5,5,0,1,0,5,0,5,0,0,0
+Neotoma Biomarker Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Neotoma Charcoal Data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marine Dinoflagellates Database,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,0,5,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sedimentary aDNA Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+French Institute of Pondicherry Palynology and Paleoecology Database,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,5,5,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,5,0,5,1,5,0
